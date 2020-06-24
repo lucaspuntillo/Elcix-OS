@@ -5,7 +5,7 @@ Elcix OS
 :Latest(stable)release: 2.0
 :Latest(pre)release: 2.1
 
-**Elcix os is an add on linux distro. that means you can add these scripts/files and install them on any distro.**
+**Elcix os is an add on linux distro. that means you can add these scripts/files and install them on any distro. these scripts can shorten commands so its easy to remember them, the scripts are meant to be light and simpel to use**
 
 
 .. image:: https://api.travis-ci.org/HexaOneOfficial/Elcix%20OS.svg?branch=develop
@@ -30,7 +30,7 @@ Installation
 
         git clone https://github.com/HexaOneOfficial/Elcix-OS.git 
         
- move the dotfiles to the home directory       
+ move the dotfiles from the distro folder to the home directory       
 
        
 
@@ -42,7 +42,7 @@ Installation
 
         gc-elcix
         
- move the dotfiles to the home directory       
+ move the dotfiles from the distro folder to the home directory     
 
 
 
