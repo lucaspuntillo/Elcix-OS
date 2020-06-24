@@ -29,7 +29,7 @@ Installation
 
         git clone https://github.com/HexaOneOfficial/Elcix-OS.git 
         
-        move the dotfiles to they home directory
+ move the dotfiles to the home directory       
 
        
 
@@ -41,7 +41,7 @@ Installation
 
         gc https://github.com/HexaOneOfficial/Elcix-OS.git 
         
-        move the dotfiles to they home directory
+ move the dotfiles to the home directory       
 
 
 
