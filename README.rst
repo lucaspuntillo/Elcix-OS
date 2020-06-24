@@ -19,14 +19,14 @@ Elcix OS
 Installation
 -------------
 
-:linux: HexaOneOfficial
+**Linux**
     
     ::
 
     git clone https://github.com/HexaOneOfficial/Elcix-OS.git 
     
    
-:ElcixOS: HexaOneOfficial
+**elcix os**
 
     ::
 
