@@ -39,7 +39,7 @@ Installation
     
     ::
 
-        gc https://github.com/HexaOneOfficial/Elcix-OS.git 
+        gc-elcix
         
  move the dotfiles to the home directory       
 
