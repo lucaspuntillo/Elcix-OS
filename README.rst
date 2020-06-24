@@ -1,7 +1,7 @@
 Elcix OS
 =========
 
-:Author: `HexaOneOfficial <https://github.com/HexaOneOfficial>`_  :Author: `HexaOneOfficial <https://github.com/HexaOneOfficial>`_ 
+:Author: `HexaOneOfficial <https://github.com/HexaOneOfficial>`_  
 :Latest(stable)release: 2.0
 :Latest(pre)release: 2.1
 
@@ -55,6 +55,9 @@ used in screenshot
 `Nord Theme 
 <https://www.nordtheme.com/>`_ 
 
+contributors
+-------------
 
 
+.. image:: https://github.com/puntillol59
 
