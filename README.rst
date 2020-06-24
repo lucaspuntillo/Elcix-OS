@@ -2,9 +2,10 @@ Elcix OS
 =========
 
 :Author: `HexaOneOfficial <https://github.com/HexaOneOfficial>`_ 
-:Version: beta
+:Latest(stable)release: 2.0
+:Latest(pre)release: 2.1
 
-**Elcix os is an add on linux distro. that means you can add they files and install them on any distro.**
+**Elcix os is an add on linux distro. that means you can add these scripts/files and install them on any distro.**
 
 
 .. image:: https://api.travis-ci.org/HexaOneOfficial/Elcix%20OS.svg?branch=develop
