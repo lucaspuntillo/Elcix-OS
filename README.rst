@@ -29,12 +29,11 @@ Installation
 
     
    
-**elcix os**
-
+**Elcix os**
+    
     ::
 
-    gc https://github.com/HexaOneOfficial/Elcix-OS.git 
-
+        gc https://github.com/HexaOneOfficial/Elcix-OS.git 
 
 * .. image:: https://raw.github.com/powerline/powerline/develop/docs/source/_static/img/pl-truncate1.png
      :alt: Truncation illustration
