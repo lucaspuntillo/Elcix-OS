@@ -16,6 +16,12 @@ Elcix OS
 `vim-airline 
 <https://github.com/vim-airline/vim-airline>`_ project.
 
+Screenshots
+-------------
+
+* .. image:: https://github.com/HexaOneOfficial/Elcix-OS/blob/master/screenshots/desktop2.1.png
+     :alt: Desktop 2.1
+
 Installation
 -------------
 
@@ -40,8 +46,6 @@ Installation
         move the dotfiles to they home directory
 
 
-* .. image:: https://raw.github.com/powerline/powerline/develop/docs/source/_static/img/pl-truncate1.png
-     :alt: Truncation illustration
 
 
 
