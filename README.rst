@@ -13,8 +13,6 @@ Elcix OS
 
 .. _travis-build-status: https://api.travis-ci.org/HexaOneOfficial/Elcix%20OS.svg?branch=develop
 
-`powerline-shell 
-<https://github.com/b-ryan/powerline-shell>`_ 
 
 Screenshots
 -------------
@@ -47,6 +45,14 @@ Installation
 
 
 
+used in screenshot
+-------------
+
+`powerline-shell 
+<https://github.com/b-ryan/powerline-shell>`_ 
+
+`Nord Theme 
+<https://www.nordtheme.com/>`_ 
 
 
 
