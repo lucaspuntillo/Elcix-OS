@@ -198,7 +198,7 @@ fi
 lc="${reset}${bold}${blue}"        # labels
 nc="${reset}${bold}${blue}"        # user and hostname
 ic="${reset}"                       # info
-c0="${reset}${white}"               # first color
+c0="${reset}${white}"               # logo color
 
 ## OUTPUT
 
