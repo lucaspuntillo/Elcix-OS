@@ -21,7 +21,7 @@ Installation
 
 **Linux**
     
-    ::
+    ::::::
 
     git clone https://github.com/HexaOneOfficial/Elcix-OS.git 
     
