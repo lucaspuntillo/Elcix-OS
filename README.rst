@@ -59,5 +59,5 @@ contributors
 -------------
 
 
-.. image:: https://avatars3.githubusercontent.com/u/62703475?s=400&u=7f3ba10d791e1e39de387dd43ad745f4e730007f&v=4
+.. image:: `https://avatars3.githubusercontent.com/u/62703475?s=400&u=7f3ba10d791e1e39de387dd43ad745f4e730007f&v=4  <https://github.com/puntillol59>`_  
 
