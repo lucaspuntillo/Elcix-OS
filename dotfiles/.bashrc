@@ -229,7 +229,7 @@ alias colormoix="./colormoix.py"
 alias wheathermoix="./wheather.py"
 alias pacsu="sudo pacman -Su"
 alias gc-elcix="gc https://github.com/HexaOneOfficial/Elcix-OS.git"
-
+alias about="./ufetch.py"
 
 
 
