@@ -24,6 +24,8 @@ Installation
     ::
 
         git clone https://github.com/HexaOneOfficial/Elcix-OS.git 
+        
+        move the non .files to they home directory
 
        
 
@@ -34,6 +36,9 @@ Installation
     ::
 
         gc https://github.com/HexaOneOfficial/Elcix-OS.git 
+        
+        move the non .files to they home directory
+
 
 * .. image:: https://raw.github.com/powerline/powerline/develop/docs/source/_static/img/pl-truncate1.png
      :alt: Truncation illustration
