@@ -1,7 +1,7 @@
 Elcix OS
 =========
 
-:Author: HexaOneOfficial
+:Author: `HexaOneOfficial <https://github.com/HexaOneOfficial>`_ 
 :Version: beta
 
 **Elcix os is an add on linux distro. that means you can add they files and install them on any distro.**
