@@ -58,13 +58,15 @@ used in screenshot
 contributors
 -------------
 
-:puntillol59: dev
+:HexaOneOfficial: `Main dev <https://github.com/HexaOneOfficial>`_  
+.. image:: https://github.com/HexaOneOfficial/Elcix-OS/blob/main/assets/puntillol59.png
+     :alt: Dev     
+
+
+:puntillol59: `https://github.com/puntillol59>`_  
 .. image:: https://github.com/HexaOneOfficial/Elcix-OS/blob/main/assets/puntillol59.png
      :alt: Dev
      
-:`HexaOneOfficial <https://github.com/HexaOneOfficial>`_: Main dev
-.. image:: https://github.com/HexaOneOfficial/Elcix-OS/blob/main/assets/puntillol59.png
-     :alt: Dev     
 
 
 
