@@ -13,8 +13,8 @@ Elcix OS
 
 .. _travis-build-status: https://api.travis-ci.org/HexaOneOfficial/Elcix%20OS.svg?branch=develop
 
-`vim-airline 
-<https://github.com/vim-airline/vim-airline>`_ project.
+`powerline-shell 
+<https://github.com/b-ryan/powerline-shell>`_ 
 
 Screenshots
 -------------
