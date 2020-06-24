@@ -1,9 +1,9 @@
-Elcix OS
+Elcix OS 
 =========
 
 :Author: `HexaOneOfficial <https://github.com/HexaOneOfficial>`_  
 :Latest(stable)release: 2.0
-:Latest(pre)release: 2.1
+:Latest(pre)release: `2.1 <https://github.com/HexaOneOfficial/Elcix-OS/releases/tag/pre2.1>`_  
 
 **Elcix os is an add on linux distro. that means you can add these scripts/files and install them on any distro. these scripts can shorten commands so its easy to remember them, the scripts are meant to be light and simpel to use**
 
