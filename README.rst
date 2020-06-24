@@ -17,7 +17,7 @@ Elcix OS
 Screenshots
 -------------
 
-* .. image:: https://github.com/HexaOneOfficial/Elcix-OS/blob/master/screenshots/desktop2.1.png
+* .. image:: https://github.com/HexaOneOfficial/Elcix-OS/blob/main/screenshots/desktop2.1.png
      :alt: Desktop 2.1
 
 Installation
