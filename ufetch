@@ -6,7 +6,7 @@
  
 # user is already defined
 os='Elcix OS pre-release 2.1'
-kernel="$(uname -sr)"
+kernel="$(uname -sr)
 uptime="$(uptime -p | sed 's/up //')"
 packages="$(pacman -Q | wc -l)"
 shell="$(basename "$SHELL")"
