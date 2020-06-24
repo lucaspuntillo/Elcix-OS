@@ -55,17 +55,7 @@ used in screenshot
 `Nord Theme 
 <https://www.nordtheme.com/>`_ 
 
-contributors
--------------
 
-:HexaOneOfficial: `Main dev <https://github.com/HexaOneOfficial>`_  
-.. image:: https://github.com/HexaOneOfficial/Elcix-OS/blob/main/assets/puntillol59.png
-     :alt: Dev     
-
-
-:puntillol59: `https://github.com/puntillol59>`_  
-.. image:: https://github.com/HexaOneOfficial/Elcix-OS/blob/main/assets/puntillol59.png
-     :alt: Dev
      
 
 
