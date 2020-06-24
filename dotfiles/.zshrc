@@ -92,6 +92,7 @@ function install_powerline_precmd() {
 if [ "$TERM" != "linux" ]; then
     install_powerline_precmd
 fi
+# alias
 
 alias pacs="sudo pacman -S"
 alias gc="git clone"
@@ -100,3 +101,9 @@ alias wheathermoix="./wheather.py"
 alias pacupdate="sudo pacman -Syu"
 alias gc-elcix="gc https://github.com/HexaOneOfficial/Elcix-OS.git"
 alias about="./ufetch.py"
+
+# ls = ls -lah
+
+alias 2='ls -lah --color=auto'
+alias ls='2'
+
