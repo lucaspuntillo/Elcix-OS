@@ -18,11 +18,19 @@ Elcix OS
 
 Installation
 -------------
-:linux:
+
+:linux: HexaOneOfficial
+    
+    ::
+
+    git clone https://github.com/HexaOneOfficial/Elcix-OS.git 
+    
+   
+:ElcixOS: HexaOneOfficial
 
     ::
 
-    git clone  
+    gc https://github.com/HexaOneOfficial/Elcix-OS.git 
 
 
 * .. image:: https://raw.github.com/powerline/powerline/develop/docs/source/_static/img/pl-truncate1.png
