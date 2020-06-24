@@ -224,11 +224,12 @@ if [[ $TERM != linux && ! $PROMPT_COMMAND =~ _update_ps1 ]]; then
 fi
 
 alias install="sudo apt get install"
+alias 1="sudo apt-get
 alias gc="git clone"
 alias colormoix="./colormoix.py"
 alias wheathermoix="./wheather.py"
-alias update="sudo apt get update"
-alias upgrade="sudo apt get upgrade"
+alias update="1 update"
+alias upgrade="1 upgrade"
 alias gc-elcix="gc https://github.com/HexaOneOfficial/Elcix-OS.git"
 alias about="./ufetch.py"
 
