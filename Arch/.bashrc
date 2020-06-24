@@ -139,10 +139,8 @@ ex ()
 }
 
 #!/bin/sh
-#
-# ufetch-elcix os fork of ufecth
 
-## INFO
+# ufetch
  
 # user is already defined
 os='Elcix OS pre-release 2.1'
@@ -223,14 +221,20 @@ if [[ $TERM != linux && ! $PROMPT_COMMAND =~ _update_ps1 ]]; then
     PROMPT_COMMAND="_update_ps1; $PROMPT_COMMAND"
 fi
 
+# alias
+
 alias pacs="sudo pacman -S"
 alias gc="git clone"
 alias colormoix="./colormoix.py"
 alias wheathermoix="./wheather.py"
-alias pacsu="sudo pacman -Su"
+alias pacupdate="sudo pacman -Syu"
 alias gc-elcix="gc https://github.com/HexaOneOfficial/Elcix-OS.git"
 alias about="./ufetch.py"
-alias pacupdate="sudo pacman -Syu"
+
+# ls = ls -lah
+
+alias 2='ls -lah --color=auto'
+alias ls='2'
 
 
 
