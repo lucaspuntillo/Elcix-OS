@@ -23,7 +23,18 @@ Installation
     
     ::
 
-    git clone https://github.com/HexaOneOfficial/Elcix-OS.git 
+        .config/powerline/
+        ├── colorschemes
+        │   ├── ...
+        │   └── wm
+        |       └── default.json  // Your configuration goes here
+        ├── colors.json
+        ├── config.json
+        └── themes
+            ├── ...
+            └── wm
+                └── default.json  // Your configuration goes here
+
     
    
 **elcix os**
