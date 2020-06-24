@@ -1,7 +1,7 @@
 Elcix OS
 =========
 
-:Author: `HexaOneOfficial <https://github.com/HexaOneOfficial>`_ 
+:Author: `HexaOneOfficial <https://github.com/HexaOneOfficial>`_ :puntillol59: https://avatars3.githubusercontent.com/u/62703475?s=400&u=7f3ba10d791e1e39de387dd43ad745f4e730007f&v=4
 :Latest(stable)release: 2.0
 :Latest(pre)release: 2.1
 
