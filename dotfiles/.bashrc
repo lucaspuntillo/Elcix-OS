@@ -226,7 +226,7 @@ fi
 alias pacs="sudo pacman -S"
 alias gc="git clone"
 alias colormoix="./colormoix.py"
-alias wheathermoix="./wheather.py"
+alias weathermoix="./wheather.py"
 alias pacupdate="sudo pacman -Syu"
 alias gc-elcix="gc https://github.com/HexaOneOfficial/Elcix-OS.git"
 alias about="./ufetch.py"
