@@ -93,6 +93,7 @@ if [ "$TERM" != "linux" ]; then
     install_powerline_precmd
 fi
 
+
 # alias
 
 alias install="sudo dnf install"
