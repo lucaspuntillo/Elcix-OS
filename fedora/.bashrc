@@ -144,7 +144,7 @@ ex ()
  
 # user is already defined
 os='Elcix OS pre-release 2.1'
-kernel='5.7 stable'
+kernel="$(uname -sr)"
 uptime="$(uptime -p | sed 's/up //')"
 packages="$(pacman -Q | wc -l)"
 shell="$(basename "$SHELL")"
