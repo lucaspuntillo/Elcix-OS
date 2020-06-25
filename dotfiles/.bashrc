@@ -236,17 +236,10 @@ alias about="./ufetch.py"
 alias 2='ls -lah --color=auto'
 alias ls='2'
 
-
 # zoom command
 
-alias +='3'
-alias -='4'
-alias 5='xdotool key Ctrl+'
-alias 6='plus'
-alias 7='minus'
-
-alias 3='5 6'
-alias 4='5 7'
+alias plus='xdotool key Ctrl+plus'
+alias min='xdotool key Ctrl+minus'
 
 
 
